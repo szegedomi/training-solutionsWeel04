@@ -11,4 +11,10 @@ public class Subject {
     public String getSubjectName() {
         return subjectName;
     }
+
+    public boolean equals(Subject subject){
+        return subject.getSubjectName().equals(this.getSubjectName());
+    }
+
+
 }

@@ -26,4 +26,8 @@ public class Tutor {
         return false;
     }
 
+    public void addSubject(Subject subject){
+        this.subjects.add(subject);
+    }
+
 }

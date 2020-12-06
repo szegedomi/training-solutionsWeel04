@@ -46,4 +46,9 @@ public class Mark {
         return empty == null || "".equals(empty);
     }
 
+    @Override
+    public String toString(){
+        return this.markType.getDescription() + "(" + this.markType.getValue() + ")";
+    }
+
 }
