@@ -1,0 +1,8 @@
+
+O
+java:S1068	"-Remove this unused "className" private field.(Ö„œüÿÿÿÿ8‰ÒËËã.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(âîœ8ÉûæËã.
+I
+java:S1068
+"'Remove this unused "rnd" private field.(¦Òî½üÿÿÿÿ8¾‚ÎËã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(š÷Ïøÿÿÿÿ8ë¢áËã.
